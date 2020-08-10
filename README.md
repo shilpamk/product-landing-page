@@ -1,11 +1,11 @@
-## Project: Product Landing Page
+# Project: Product Landing Page
 
-# Usage and learning: HTML CSS
+## Usage and learning: HTML CSS
 * Flexbox
 * iframe
 * Form
 
-# To do:
+## To do:
 * Align elements properly
 
 
